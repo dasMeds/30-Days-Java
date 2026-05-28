@@ -97,8 +97,8 @@ Each file is self-contained and runnable on its own.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/java-diary.git
-cd java-diary
+git clone https://github.com/your-username/30-Days-Java
+cd 30-Days-Java
 
 # Run any day's project (Java 17+)
 cd week-1
