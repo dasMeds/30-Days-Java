@@ -1,6 +1,6 @@
 //Day01_TemperatureConverter that takes input from the user and converts it to the desired unit 
 
-package Day01;
+package week_1.Day01;
 import java.util.*;
 
 public class Day01_TemperatureConverter {
