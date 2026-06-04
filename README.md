@@ -23,7 +23,7 @@ This is my personal Java learning repository. Each day I study one concept and i
 |-----|---------|---------|--------|
 | 01 | Temperature converter — °C ↔ °F ↔ K from user input | Variables, data types, Scanner | ✅ |
 | 02 | Simple calculator — +, -, *, / with menu choice | Operators, if/else | ✅ |
-| 03 | Grade classifier — input score, print letter grade | Comparison, ternary operator | ⬜ |
+| 03 | Grade classifier — input score, print letter grade | Comparison, ternary operator | ✅ |
 | 04 | FizzBuzz+ — FizzBuzz 1–100, also flags primes | Loops, modulo, nested conditions | ⬜ |
 | 05 | Number guessing game — random number, high/low hints | while loop, break, Math.random() | ⬜ |
 | 06 | Score analyser — avg, max, min, pass/fail from array | Arrays, for loop, basic I/O | ⬜ |
