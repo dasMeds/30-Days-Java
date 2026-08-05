@@ -1,7 +1,7 @@
 # 30-Days-Java
 > Personal Java practice repo — 30 days of code, notes, and mini-projects as I learn from the ground up.
 
-![progress](https://img.shields.io/badge/progress-2%2F30%20days-blue?style=flat-square)
+![progress](https://img.shields.io/badge/progress-4%2F30%20days-blue?style=flat-square)
 ![java](https://img.shields.io/badge/Java-17+-orange?style=flat-square)
 ![status](https://img.shields.io/badge/status-in%20progress-green?style=flat-square)
 
@@ -24,7 +24,7 @@ This is my personal Java learning repository. Each day I study one concept and i
 | 01 | Temperature converter — °C ↔ °F ↔ K from user input | Variables, data types, Scanner | ✅ |
 | 02 | Simple calculator — +, -, *, / with menu choice | Operators, if/else | ✅ |
 | 03 | Grade classifier — input score, print letter grade | Comparison, ternary operator | ✅ |
-| 04 | FizzBuzz+ — FizzBuzz 1–100, also flags primes | Loops, modulo, nested conditions | ⬜ |
+| 04 | FizzBuzz+ — FizzBuzz 1–100, also flags primes | Loops, modulo, nested conditions | ✅ |
 | 05 | Number guessing game — random number, high/low hints | while loop, break, Math.random() | ⬜ |
 | 06 | Score analyser — avg, max, min, pass/fail from array | Arrays, for loop, basic I/O | ⬜ |
 | 07 | Unit converter toolkit — km↔mi, kg↔lb, l↔gal | Methods, params, return values | ⬜ |
