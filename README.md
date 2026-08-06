@@ -27,7 +27,7 @@ This is my personal Java learning repository. Each day I study one concept and i
 | 04 | FizzBuzz+ — FizzBuzz 1–100, also flags primes | Loops, modulo, nested conditions | ✅ |
 | 05 | Number guessing game — random number, high/low hints | while loop, break, Math.random() | ✅ |
 | 06 | Score analyser — avg, max, min, pass/fail from array | Arrays, for loop, basic I/O | ✅ |
-| 07 | Unit converter toolkit — km↔mi, kg↔lb, l↔gal | Methods, params, return values | ⬜ |
+| 07 | Unit converter toolkit — km↔mi, kg↔lb, l↔gal | Methods, params, return values | ✅ |
 
 ---
 
