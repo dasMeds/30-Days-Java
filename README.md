@@ -1,7 +1,7 @@
 # 30-Days-Java
 > Personal Java practice repo — 30 days of code, notes, and mini-projects as I learn from the ground up.
 
-![progress](https://img.shields.io/badge/progress-7%2F30%20days-blue?style=flat-square)
+![progress](https://img.shields.io/badge/progress-8%2F30%20days-blue?style=flat-square)
 ![java](https://img.shields.io/badge/Java-17+-orange?style=flat-square)
 ![status](https://img.shields.io/badge/status-in%20progress-green?style=flat-square)
 
