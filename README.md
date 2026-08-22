@@ -1,7 +1,7 @@
 # 30-Days-Java
 > Personal Java practice repo — 30 days of code, notes, and mini-projects as I learn from the ground up.
 
-![progress](https://img.shields.io/badge/progress-8%2F30%20days-blue?style=flat-square)
+![progress](https://img.shields.io/badge/progress-9%2F30%20days-blue?style=flat-square)
 ![java](https://img.shields.io/badge/Java-17+-orange?style=flat-square)
 ![status](https://img.shields.io/badge/status-in%20progress-green?style=flat-square)
 
@@ -35,8 +35,8 @@ This is my personal Java learning repository. Each day I study one concept and i
 
 | Day | Project | Concept | Status |
 |-----|---------|---------|--------|
-| 08 | Car class — make/model/speed, accelerate & brake methods | Classes, objects, constructors | ⬜ |
-| 09 | Bank account — deposit, withdraw, reject invalid ops | Encapsulation, private fields, getters | ⬜ |
+| 08 | Car class — make/model/speed, accelerate & brake methods | Classes, objects, constructors | ✅ |
+| 09 | Bank account — deposit, withdraw, reject invalid ops | Encapsulation, private fields, getters | ✅ |
 | 10 | Animal hierarchy — Dog/Cat subclasses with speak() | Inheritance, super(), overriding | ⬜ |
 | 11 | Shape area calculator — Circle, Rectangle, Triangle | Polymorphism, method overloading | ⬜ |
 | 12 | Payable interface — Employee & Freelancer getPay() | Abstract classes, interfaces | ⬜ |
